@@ -14,6 +14,7 @@ During the project analysis a data, similar to play Fever, from kickstarter proj
 Outcomes Based on Lunch Date report shows how the project start date affect the its success. This report allows to see the best and the worst months to start a project and analyze when was the time the most projects succeeds or failed.
 
 ### Analysis of Outcomes Based on Goals
+![](resources/Outcomes_vs_Goals.png)
 Outcomes Based on Outcomes Based on Goals show how the money goals affect the success of the project. We can analyze and find the best money range to ack for a successful project.
 
 ### Challenges and Difficulties Encountered
