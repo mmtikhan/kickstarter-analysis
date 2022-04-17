@@ -10,7 +10,7 @@ To chow the relations between launch date and goal amount and how its affect the
 During the project analysis a data, similar to play Fever, from kickstarter projects were collected, investigated and organized in some report which allows to visualize and understand the kickstarter tendencies.
 
 ### Analysis of Outcomes Based on Launch Date
-![](resourses/Outcomes_vs_Goals.png)
+![](images/Theater_Outcomes_vs_Launch.png)
 Outcomes Based on Lunch Date report shows how the project start date affect the its success. This report allows to see the best and the worst months to start a project and analyze when was the time the most projects succeeds or failed.
 
 ### Analysis of Outcomes Based on Goals
