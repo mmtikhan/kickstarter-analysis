@@ -32,3 +32,4 @@ During building the report we can notice some projects that break the pattern an
 
 
 -What are some other possible tables and/or graphs that we could create? For the future projects and reports we can analyze what percent of goal amount was reached and how far from success were failed projects. How deadlines affect the success and what is better short or long term campaign and dependence of campaign's time to its goal amount. Analysis of the average donations in comparison to project characteristics.
+ 
